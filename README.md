@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed Rasik</h1>
 <h3 align="center">A passionate QA Automation Engineer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-Rasik&label=Profile%20views&color=0e75b6&style=flat" alt="MD-Rasik" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-Rasik&label=Profile%20views&color=0e75b6&style=flat" alt="Mohammed-Rasik" /> </p>
 
-Highly skilled QA Automation Engineer with over 2+ years of experience seeking a challenging position in a dynamic organization. Passionate about delivering high-quality software solutions and optimizing the testing process through automation. Strong expertise in test planning, test case development, and test automation frameworks.
+Highly skilled QA Automation Engineer with over 3+ years of experience seeking a challenging position in a dynamic organization. Passionate about delivering high-quality software solutions and optimizing the testing process through automation. Strong expertise in test planning, test case development, and test automation frameworks.
 
 - **🌱 I’m currently learning Advanced Automation Testing concepts.**
 
